@@ -1,0 +1,19 @@
+# Gmail API
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.108.0
+
+# OpenAI
+openai==1.54.0
+
+# Streamlit
+streamlit==1.39.0
+
+# Utilities
+python-dotenv==1.0.0
+beautifulsoup4==4.12.3
+lxml==5.1.0
+
+# Email parsing
+email-validator==2.1.0
+
